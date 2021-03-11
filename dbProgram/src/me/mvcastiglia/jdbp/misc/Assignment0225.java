@@ -1,3 +1,4 @@
+package me.mvcastiglia.jdbp.misc;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;

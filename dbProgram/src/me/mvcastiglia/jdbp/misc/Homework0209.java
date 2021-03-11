@@ -1,3 +1,4 @@
+package me.mvcastiglia.jdbp.misc;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

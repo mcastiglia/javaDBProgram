@@ -1,3 +1,4 @@
+package me.mvcastiglia.jdbp.misc;
 public class Assignment0215 {
 	public static void main(String[] args) {
 		// this always runs
